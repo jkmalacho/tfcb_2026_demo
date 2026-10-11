@@ -29,3 +29,9 @@
 10. Plate the master mix into flat-bottom 96-well plates at 100 µL per well, skipping the outer wells (60 wells per plate), for a total of 7 plates.
 11. Place the plates in the incubator at 37°C. 
 12. Record the time that plating was finished.
+
+## Result
+
+![Plate layout](img/plate_layout.png)
+
+Figure 1. Plate layout showing the wells (rows B to G, columns 2 to 11; 60 wells) filled with 100 µL of master mix. Figure produced by Julia Malachowski.
