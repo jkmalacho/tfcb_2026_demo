@@ -19,7 +19,7 @@
 
 1. Centrifuge both the CD4 and CD8 T cells (20 million cells each) at 300 g for 10 min at room temperature.
 2. Remove the supernatant and resuspend each cell pellet in 15 mL of T cell media (TCM).
-3. Count each T cell population on the BD counter using a 40 µL aliquot. Measured concentrations: CD4 1.34 x 10^6 cells/mL, CD8 1.52 x 10^6 cells/mL.
+3. Count each T cell population on the BD counter using a 40 µL aliquot. Measured concentrations: CD4 = 1.34 x 10^6 cells/mL, CD8 = 1.52 x 10^6 cells/mL.
 4. Place the cells in the incubator at 37°C until the beads are ready.
 5. Transfer 300 µL of Dynabeads Human T-Activator CD3/CD28 (120 million beads) into an eppendorf tube.
 6. Wash the beads 3 times: for each wash, add about 1 mL of TCM, place the tube on the magnetic de-beader, and remove the medium.
