@@ -26,6 +26,6 @@
 7. Resuspend the washed beads in 500 µL of TCM.
 8. Combine 15 mL of CD4 cells and 13.2 mL of CD8 cells in a 50 mL falcon tube.
 9. Add the 500 µL of washed Dynabeads and 11.3 mL of TCM to bring the master mix to 40 mL, at about 1 x 10^6 cells/mL.
-10. Plate the master mix into flat-bottom 96-well plates at 100 µL per well, skipping the the outer row of wells (60 wells per plate), for a total of 7 plates.
+10. Plate the master mix into flat-bottom 96-well plates at 100 µL per well, skipping the outer wells (60 wells per plate), for a total of 7 plates.
 11. Place the plates in the incubator at 37°C. 
 12. Record the time that plating was finished.
